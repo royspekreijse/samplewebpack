@@ -1,0 +1,11 @@
+{
+  "name": "SampleWebpack",
+  "version": "1.0.0",
+  "main": "src/app.js",
+  "author": "Roy Spekreijse <roy@spekreijse.eu>",
+  "license": "MIT", 
+  "scripts": {
+    "build": "webpack --config prod.config.js",
+    ""
+  }
+}
